@@ -56,7 +56,7 @@ build tools - gcc
 
 Makefiles
 
-anakysis:
+analysis:
 
 static-before code execution - cppcheck
 
